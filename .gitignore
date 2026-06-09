@@ -1,0 +1,9 @@
+## Ignore Visual Studio / VS Code build output and configurations
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
