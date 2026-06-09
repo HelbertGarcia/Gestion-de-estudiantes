@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación de consola en C# (.NET 10.0) desarrollada para que los docentes universitarios gestionen sus asignaturas, grupos, estudiantes y calificaciones en memoria.
 
+## 📄 Informe
+El informe breve sobre los conceptos aplicados y la estructura del proyecto se encuentra aquí: [INFORME.md](./INFORME.md)
+
 ## Características
 
 - **POO y Polimorfismo**: Clasificación de estudiantes en *Presenciales* y *A Distancia* (Virtuales) con cálculo de notas adaptado polimórficamente según su modalidad:
